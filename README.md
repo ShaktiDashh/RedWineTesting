@@ -1,1 +1,2 @@
 # RedWineTesting
+#The project involves analyzing a dataset of red wine samples from northwest Portugal, where each wine is given a quality score (QS) ranging from 3 to 8 based on 11 physicochemical properties such as fixed acidity, volatile acidity, pH value, and density. Wines with QS ≥ 6 are classified as good, while those with QS ≤ 5 are classified as bad. The goal is to develop a classification model to predict whether a wine is good or bad based on its physicochemical properties.
